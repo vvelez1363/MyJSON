@@ -1,0 +1,11 @@
+{
+  "c2array": true,
+  "size": [5, 1, 2],
+  "data": [
+    [["Hola viajero, bienvenido a nuestra aldea.", "Anciano"]],
+    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Anciano"]],
+    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardián"]],
+    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardián"]],
+    [["Confío en ti, toma esta espada para tu viaje.", "Anciano"]]
+  ]
+}
