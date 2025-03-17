@@ -1,0 +1,9 @@
+{
+  "c2array": true,
+  "size": [3, 1, 1],
+  "data": [
+    [["Hola, bienvenido a la aventura."]],
+    [["Tu misión es encontrar la llave mágica."]],
+    [["Buena suerte en tu viaje."]]
+  ]
+}
